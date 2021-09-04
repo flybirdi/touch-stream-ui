@@ -1,0 +1,23 @@
+{
+  "rules": {
+    "import/prefer-default-export": 0,
+    "no-alert": 0,
+    "lines-between-class-members": 0,
+    "implicit-arrow-linebreak": 0,
+    "no-underscore-dangle": 0,
+    "react/destructuring-assignment": 1,
+    "react/prop-types": 1,
+    "no-useless-constructor": 0,
+    "import/no-webpack-loader-syntax": 0,
+    "jsx-a11y/anchor-is-valid": 0
+  },
+  "extends": "airbnb",
+  "settings": {
+		"import/resolver": {
+			"webpack": {
+				"config": "webpack.dev.js"
+			}
+		}
+  },
+  "parser": "babel-eslint"
+}

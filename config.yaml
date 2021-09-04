@@ -1,0 +1,11 @@
+# Global
+JWT_NAME: JWT
+
+# env specific
+env:
+  dev:
+    TOUCH_API_URL: http://localhost:8000
+    WS_URL: ws://localhost:8000
+  prod:
+    TOUCH_API_URL: https://touch-api.birdi.com.au
+    WS_URL: wss://touch-api.birdi.com.au

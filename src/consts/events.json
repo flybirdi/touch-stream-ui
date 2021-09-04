@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0",
+    "streamKey": "",
+    "scheduledStartTime": "2017-10-03T17:00:00.000Z",
+    "scheduledEndTime": "",
+    "status": "",
+    "comp": "Boys 18",
+    "round": "1",
+    "teamA": "nzl",
+    "teamB": "zaf",
+    "scoreA": "5",
+    "scoreB": "10",
+    "location": "Field 5"
+  },
+  {
+    "id": "1",
+    "streamKey": "",
+    "scheduledStartTime": "2017-10-03T20:00:00.000Z",
+    "scheduledEndTime": "",
+    "status": "",
+    "comp": "Boys 18",
+    "round": "1",
+    "teamA": "aus",
+    "teamB": "usa",
+    "scoreA": "-",
+    "scoreB": "-",
+    "location": "Field 11"
+  },
+  {
+    "id": "1",
+    "streamKey": "",
+    "scheduledStartTime": "2017-10-03T20:00:00.000Z",
+    "scheduledEndTime": "",
+    "status": "",
+    "comp": "Girls 18",
+    "round": "1",
+    "teamA": "ind",
+    "teamB": "chn",
+    "scoreA": "-",
+    "scoreB": "-",
+    "location": "Field 4"
+  }
+]

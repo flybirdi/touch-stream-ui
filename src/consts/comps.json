@@ -1,0 +1,27 @@
+{
+ "Men's Open": [
+  "cok",
+  "slb",
+  "fji",
+  "tkl",
+  "png",
+  "ton",
+  "wsm"
+ ],
+ "Women's Open": [
+  "fji",
+  "wsm",
+  "cok",
+  "ton",
+  "slb",
+  "png"
+ ],
+ "Mixed Open": [
+  "fji",
+  "wsm",
+  "cok",
+  "ton",
+  "slb",
+  "png"
+ ]
+}

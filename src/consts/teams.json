@@ -1,0 +1,30 @@
+{
+  "cok": {
+    "name": "Cook Islands",
+    "emoji": "🇨🇰"
+  },
+  "fji": {
+    "name": "Fiji",
+    "emoji": "🇫🇯"
+  },
+  "png": {
+    "name": "Papua New Guinea",
+    "emoji": "🇵🇬"
+  },
+  "slb": {
+    "name": "Solomon Islands",
+    "emoji": "🇸🇧"
+  },
+  "ton": {
+    "name": "Tonga",
+    "emoji": "🇹🇴"
+  },
+  "tkl": {
+    "name": "Tokelau",
+    "emoji": "🇹🇰"
+  },
+  "wsm": {
+    "name": "Samoa",
+    "emoji": "🇼🇸󠁢󠁷󠁬󠁳󠁿"
+  }
+}
