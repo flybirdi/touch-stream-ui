@@ -13,5 +13,6 @@
   to = "/index.html"
   status = 200
 
-[context.prod.environment]
+# Production context is define in Netlify UI
+[context.production.environment]
   NODE_ENV = "prod"
